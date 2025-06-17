@@ -1,4 +1,4 @@
-## Hi, I'm Rodrigo Silva a front end developer
+## Hi, I'm Rodrigo Silva a fullstack web/mobile/descktop developer
 <div align="start">
   <a href="https://github.com/rodsilvavieira2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodsilvavieira2&layout=compact&langs_count=7&theme=dracula"/>
